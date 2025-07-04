@@ -3,7 +3,7 @@ import ImageContent from "./ImageContent";
 function RateOfInsurance() {
     return (
         <>
-            <div className="bg-sky-600 h-full mt-5">
+            <div className="bg-sky-600 h-full mt-5 p-4">
                 <h1 className="text-center text-4xl text-gray-700 font-serif mb-12 mt-5">Rates and Insurance</h1>
                 <p className="text-black leading-relaxed  text-center">
                     Session Fee - $200 <br /><br />

@@ -4,7 +4,7 @@ function GoodFaith() {
     return (
         <>
             <Nav />
-            <div className="container items-center justify-center bg-gray-100 mb-20">
+            <div className="container items-center justify-center bg-gray-100 mb-20 p-4">
                 <h1 className="text-gray-800 font-serif text-5xl text-center items-center">Good Faith Estimate</h1>
                 <p className="text-gray-400 font-serif  text-center items-center mt-5">
                     Effective January 1, 2022, a ruling went into effect called the “No Surprises Act,”<br />
