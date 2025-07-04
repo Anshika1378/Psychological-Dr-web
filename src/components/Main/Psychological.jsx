@@ -4,7 +4,7 @@ import BackgroundVideo from "./Background-video";
 function Psychological() {
     return (
         <>
-        <div className="relative mb-5  w-full top-0 overflow-hidden  h-[calc(90vh-100px)] m-0 p-0 px-4 sm:px-6 lg:px-16 lg:right-7 sm:right-7  py-6">         
+        <div className="relative mb-5 mx-auto w-full top-0 overflow-hidden  h-[calc(90vh-100px)]    lg:px-16 lg:right-7  py-6">         
             <BackgroundVideo />
             {/*  Overlay Content */}
             <div className="absolute top-0  w-full h-full  bg-opacity-50 flex items-center justify-center z-10 bg-opacity-40 ">
